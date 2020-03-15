@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249230255319",
+    "firebase_url": "https://captureit-18a86.firebaseio.com",
+    "project_id": "captureit-18a86",
+    "storage_bucket": "captureit-18a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249230255319:android:0b72f7cbbf7328c3c4bc92",
+        "android_client_info": {
+          "package_name": "com.dipakshrestha.captureit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249230255319-nr490t9cgbhcq7l0fr1gjh5l2uotdcjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dipakshrestha.captureit",
+            "certificate_hash": "7cd401ba2761cd483105ef85494377d61ce30a0d"
+          }
+        },
+        {
+          "client_id": "249230255319-9un2ns5f9tl5j0uarcneu1hc5j9vbhs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu930P3BfUD3J7cgDVNUQ416g1Sk9PyVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249230255319-9un2ns5f9tl5j0uarcneu1hc5j9vbhs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
